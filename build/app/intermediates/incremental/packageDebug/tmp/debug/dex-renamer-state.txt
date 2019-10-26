@@ -1,0 +1,4 @@
+#Sat Oct 26 07:54:51 WIB 2019
+base.0=/home/johntor/development/crudmysql3/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
